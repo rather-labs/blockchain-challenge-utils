@@ -1,2 +1,2 @@
 # Deployments
-[QUIZ In Ropsten](https://ropsten.etherscan.io/address/0x74f0b668ea3053052deaa5eedd1815f579f0ee03#readContract)
+[QUIZ In Goerli](https://goerli.etherscan.io/address/0x437ef217203452317c3c955cf282b1ee5f6aaf72#code)
